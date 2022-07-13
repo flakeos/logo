@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 1024 1024" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<path d="M0 512C0 229.23 229.23 1.42109e-14 512 1.42109e-14C794.77 1.42109e-14 1024 229.23 1024 512C1024 794.77 794.77 1024 512 1024C229.23 1024 0 794.77 0 512Z" fill-rule="evenodd" id="Fill"/>
+</defs>
+<g id="Icon" vectornator:layerName="Icon">
+<g opacity="1">
+<use fill="#ffffff" opacity="1" stroke="none" xlink:href="#Fill"/>
+<clipPath id="ClipPath">
+<use xlink:href="#Fill"/>
+</clipPath>
+<g clip-path="url(#ClipPath)">
+<path d="M0 0L1024 0L1024 1024L0 1024L0 0Z" fill="#99d0ff" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M870.22 324L870.22 324L1328.44 1024L412 1024L870.22 324Z" fill="#156eb9" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M153.78 324L153.78 324L611.999 1024L-304.44 1024L153.78 324Z" fill="#156eb9" fill-rule="evenodd" opacity="1" stroke="none"/>
+<path d="M512 241.842L512 241.842L1024 1024L0 1024L512 241.842Z" fill="#065394" fill-rule="evenodd" opacity="1" stroke="none"/>
+</g>
+</g>
+</g>
+</svg>
